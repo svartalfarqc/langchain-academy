@@ -1,5 +1,6 @@
-.ipynb_checkpoints/
+docker-compose.yml
 
+.ipynb_checkpoints/
 .idea/
 
 # Byte-compiled / optimized / DLL files
